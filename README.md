@@ -12,10 +12,10 @@ After you include the JavaScript inside your working file, you have to remember 
 
 | Attribute  | Description | Activation Width (Inclusive) |
 | ---------- | ----------- | ---------------------------- |
-| phone      | Classes inside `phone` attribute are only active in phone sized devices     | 0px `to` 767px       |
-| -phone     | Classes inside `-phone` attribute are active in all devices except phones   | 768px `to` NO LIMIT   |
-| tablet     | Classes inside `tablet` attribute are only active in tablet sized devices   | 768px `to` 1024px    |
-| -tablet    | Classes inside `-tablet` attribute are active in all devices except tablets | 0px `to` 767px `and` 1024px `to` NO LIMIT |
-| laptop     | The classes inside `laptop` attribute are only active in laptop sized devices   | 1024px `to` NO LIMIT |
-| -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops | 0px `to` 1024px |
+| phone      | Classes inside `phone` attribute are only active in phone sized devices     | `0px - 767px`        |
+| -phone     | Classes inside `-phone` attribute are active in all devices except phones   | `768px - NO LIMIT`   |
+| tablet     | Classes inside `tablet` attribute are only active in tablet sized devices   | `768px - 1024px`     |
+| -tablet    | Classes inside `-tablet` attribute are active in all devices except tablets | `0px - 767px` & `1024px - NO LIMIT` |
+| laptop     | The classes inside `laptop` attribute are only active in laptop sized devices   | `1024px - NO LIMIT` |
+| -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops | `0px - 1024px` |
 
