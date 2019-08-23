@@ -12,13 +12,10 @@ After you include the JavaScript inside your working file, you have to remember 
 
 | Attribute  | Description |
 | ---------- | ----------- |
-| phone      | The classes inside `phone` attribute are only active in phone (mobile) devices  |
+| phone      | The classes inside `phone` attribute are only active in phone sized devices     |
 | -phone     | The classes inside `-phone` attribute are active in all devices except phones   |
-
-- [phone]
-- [-phone]
-- [tablet]
-- [-tablet]
-- [laptop]
-- [-laptop]
+| tablet     | The classes inside `tablet` attribute are only active in tablet sized devices   |
+| -tablet    | The classes inside `-tablet` attribute are active in all devices except tablets |
+| laptop     | The classes inside `laptop` attribute are only active in laptop sized devices   |
+| -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops |
 
