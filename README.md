@@ -2,13 +2,20 @@
 This repo contains JavaScript file for responsive making mini library
 
 ## Installation
-Download the `responsive.min.js` file or clone the repo inside your project folder & link the file in your working file like this.
-```
+Download the `responsive.min.js` file or clone the repo inside your project folder & link the file in your working file.
+```JavaScript
 <script src="responsive.min.js"></script>
 ```
 
 ## Implementation
-After you include the JavaScript inside your working file, you have to remember some of the reserved html attributes represented in table below;
+How you want to implement the features of this library depends upon your used and habits of writting code. However, I like to use this library like this;
+
+```HTML
+<div class=" ...never_changing_classes_here... " phone=" ...phone only_classes_here... " >
+  ...your_content_goes_here...
+</div
+```
+
 
 | Attribute  | Description | Activation Width (Inclusive) |
 | ---------- | ----------- | ---------------------------- |
