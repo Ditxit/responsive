@@ -7,7 +7,7 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 <script src="responsive.min.js"></script>
 ```
 
-</br>
+
 ## Implementation
 How you want to implement the features of this library depends upon your used and habits of writting code. However, I like to use this library like this;
 
@@ -33,6 +33,6 @@ How you want to implement the features of this library depends upon your used an
 | -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops | `♾️ to 1024px` |
 
 
-</br>
+
 ## Supported CSS libraries
 > This mini library supports all the CSS libraries out there in the market. 
