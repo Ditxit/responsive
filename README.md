@@ -8,4 +8,11 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 ```
 
 ## Implementation
-The implementation is pritty basic and straight forward
+After you include the JavaScript inside your working file, you have to remember some of the reserved html attributes such as;
+- [phone]
+- [-phone]
+- [tablet]
+- [-tablet]
+- [laptop]
+- [-laptop]
+
