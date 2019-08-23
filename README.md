@@ -1,8 +1,11 @@
 # responsive.js
 This repo contains JavaScript file for responsive making mini library
 
-## How to use?
-Download the `responsive.min.js` file and link the file inside the website you are working.
+## Installation
+Download the `responsive.min.js` file or clone the repo inside your project folder & link the file in your working file like this.
 ```
 <script src="responsive.min.js"></script>
 ```
+
+## Implementation
+The implementation is pritty basic and straight forward
