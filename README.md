@@ -10,12 +10,12 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 ## Implementation
 After you include the JavaScript inside your working file, you have to remember some of the reserved html attributes represented in table below;
 
-| Attribute  | Description |
-| ---------- | ----------- |
-| phone      | The classes inside `phone` attribute are only active in phone sized devices     |
-| -phone     | The classes inside `-phone` attribute are active in all devices except phones   |
-| tablet     | The classes inside `tablet` attribute are only active in tablet sized devices   |
-| -tablet    | The classes inside `-tablet` attribute are active in all devices except tablets |
-| laptop     | The classes inside `laptop` attribute are only active in laptop sized devices   |
-| -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops |
+| Attribute  | Description | Device Size |
+| ---------- | ----------- | ----------- |
+| phone      | The classes inside `phone` attribute are only active in phone sized devices     | Smaller than `768px` |
+| -phone     | The classes inside `-phone` attribute are active in all devices except phones   | Smaller than `768px` |
+| tablet     | The classes inside `tablet` attribute are only active in tablet sized devices   | Smaller than `768px` |
+| -tablet    | The classes inside `-tablet` attribute are active in all devices except tablets | Smaller than `768px` |
+| laptop     | The classes inside `laptop` attribute are only active in laptop sized devices   | Smaller than `768px` |
+| -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops | Smaller than `768px` |
 
