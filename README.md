@@ -10,10 +10,10 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 ## Implementation
 After you include the JavaScript inside your working file, you have to remember some of the reserved html attributes represented in table below;
 
-| ### Attribute  | ### Description |
-| -------------- | --------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Attribute  | Description |
+| ---------- | ----------- |
+| phone      | The classes inside `phone` attribute are only active in phone (mobile) devices  |
+| -phone     | The classes inside `-phone` attribute are active in all devices except phones   |
 
 - [phone]
 - [-phone]
