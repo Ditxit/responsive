@@ -6,7 +6,7 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 ```JavaScript
 <script src="responsive.min.js"></script>
 ```
-Or, you can just use the link instead of downloading
+Or, use the link instead of downloading
 ```JavaScript
 <script src="https://raw.githubusercontent.com/Ditxit/responsive/master/responsive.min.js"></script>
 ```
