@@ -12,10 +12,10 @@ How you want to implement the features of this library depends upon your used an
 
 ```HTML
 <div 
-     class=" ...never_changing_classes_here... "
-     phone=" ...phone_only_classes_here... " 
-     tablet=" ...tablet_only_classes_here... " 
-     laptop=" ...laptop_only_classes_here... " 
+     class=" ...never_changing_classes_for_this_element_goes_here... "
+     phone=" ...what_classes_to_add_or_remove_while_in_phone_goes_here... " 
+     tablet=" ...what_classes_to_add_or_remove_while_in_tablet_goes_here... " 
+     laptop=" ...what_classes_to_add_or_remove_while_in_laptop_goes_here... " 
 >
      ...your_content_goes_here...
 </div>
