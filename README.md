@@ -15,8 +15,9 @@ How you want to implement the features of this library depends upon your used an
      class=" ...never_changing_classes_here... "
      phone=" ...phone_only_classes_here... " 
      tablet=" ...tablet_only_classes_here... " 
-     laptop=" ...laptop_only_classes_here... " >
-  ...your_content_goes_here...
+     laptop=" ...laptop_only_classes_here... " 
+>
+     ...your_content_goes_here...
 </div>
 ```
 
