@@ -12,14 +12,15 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 How you want to implement the features of this library depends upon your used and habits of writting code. However, I like to use this library like this;
 
 ```HTML
-<!-- NOTE: all the attributes inside this <div>...</div> are not mandatory to write -->
 <div 
-     class  =" <!-- ...classes_that_are_fixed_for_all_devices_goes_here... --> "
-     phone  =" ...classes_to_add_or_remove_while_in_phone_goes_here...  " 
-     tablet =" ...classes_to_add_or_remove_while_in_tablet_goes_here... " 
-     laptop =" ...classes_to_add_or_remove_while_in_laptop_goes_here... " 
+     class  =" { classes_that_are_fixed_for_all_devices_goes_here    } "
+     phone  =" { classes_to_add_or_remove_while_in_phone_goes_here   } " 
+     tablet =" { classes_to_add_or_remove_while_in_tablet_goes_here  } " 
+     laptop =" { classes_to_add_or_remove_while_in_laptop_goes_here  } " 
 >
+     
      <!-- Your content goes here -->
+     
 </div>
 ```
 
