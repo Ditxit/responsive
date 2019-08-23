@@ -31,3 +31,6 @@ How you want to implement the features of this library depends upon your used an
 | laptop     | The classes inside `laptop` attribute are only active in laptop sized devices   | `1024px to ♾️` |
 | -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops | `♾️ to 1024px` |
 
+
+## Supported CSS libraries
+> This mini library supports all the CSS libraries out there in the market. 
