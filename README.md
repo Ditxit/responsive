@@ -8,7 +8,7 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 ```
 Or, use the link instead of downloading
 ```JavaScript
-<script src="https://drive.google.com/uc?export=view&id=1opMRz11qnO1uPitXKgWQwi_INTdU4G7C"></script>
+<script src="https://drive.google.com/uc?id=1opMRz11qnO1uPitXKgWQwi_INTdU4G7C"></script>
 ```
 
 
