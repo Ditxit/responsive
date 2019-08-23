@@ -8,7 +8,7 @@ Download the `responsive.min.js` file or clone the repo inside your project fold
 ```
 Or, use the link instead of downloading
 ```JavaScript
-<script src="https://raw.githubusercontent.com/Ditxit/responsive/master/responsive.min.js"></script>
+<script src="https://cdn.rawgit.com/Ditxit/responsive/master/responsive.min.js"></script>
 ```
 
 
