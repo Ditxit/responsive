@@ -2,7 +2,7 @@
 This repo contains JavaScript file for responsive making mini library
 
 </br>
--------------------------------------------------------------------------------------------------------------------------------------
+***
 </br>
 
 ## 🔰 Installation
