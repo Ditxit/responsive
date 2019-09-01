@@ -33,7 +33,7 @@ How you want to implement the features of this library depends upon your used an
 
 
 | Attribute  | Description | Activation Width (Inclusive) |
-| ---------- | ----------- | ---------------------------- |
+| ---------- | ----------- | :--------------------------: |
 | phone      | Classes inside `phone` attribute are only active in phone sized devices     | ♾️ - 767px        |
 | -phone     | Classes inside `-phone` attribute are active in all devices except phones   | 768px - ♾️   |
 | tablet     | Classes inside `tablet` attribute are only active in tablet sized devices   | 768px - 1024px     |
@@ -47,7 +47,7 @@ How you want to implement the features of this library depends upon your used an
 <tr><td>
 
 | Attributes | Phone | Tablet | Laptop |
-| ---------- | ----- | ------ | ------ | 
+| ---------- | :---: | :----: | :----: | 
 | phone      | ✔️   | ❌     | ❌    | 
 | tablet     | ❌   | ✔️     | ❌    |
 | laptop     | ❌   | ❌     | ✔️    |
@@ -55,7 +55,7 @@ How you want to implement the features of this library depends upon your used an
 </td><td>
 
 | Attributes | Phone | Tablet | Laptop |
-| ---------- | ----- | ------ | ------ | 
+| ---------- | :---: | :----: | :----: | 
 | -phone     | ❌   | ✔️     | ✔️    | 
 | -tablet    | ✔️   | ❌     | ✔️    |
 | -laptop    | ✔️   | ✔️     | ❌    |
