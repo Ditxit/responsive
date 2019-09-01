@@ -42,8 +42,9 @@ How you want to implement the features of this library depends upon your used an
 | -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops | `♾️ to 1024px` |
 
 
-## Grammars To Follow
-> This library only uses one hyphen `-` as a syntax which it means `not` in common context.
+## Coding conventions
+This library uses hyphen `-` as a syntax which it means `not` in common context. For example;
+> `phone` is used to add class to the respective element while in phone only whereas `-phone` i.e. `not phone` is used to add classes to respective element while not in phone only.
 
 
 ## Supported CSS libraries
