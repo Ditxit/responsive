@@ -38,6 +38,11 @@ How you want to implement the features of this library depends upon your used an
 </div>
 ```
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 🔰 Attributes Description
+There are altogether total 6 attributes reserved by this library. They are named after the devices.
 
 | Attribute  | Description | Activation Width (Inclusive) |
 | ---------- | ----------- | ---------------------------- |
