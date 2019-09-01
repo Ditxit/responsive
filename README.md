@@ -12,7 +12,7 @@ Or, use the link instead `but not recommended in finalized project`,
 ```
 
 
-## Implementation
+## ✍️ Implementation
 How you want to implement the features of this library depends upon your used and habits of writting code. However, I like to use this library like this;
 
 ```HTML
