@@ -66,15 +66,22 @@ How you want to implement the features of this library depends upon your used an
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
 
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
+| Attributes | Phone | Tablet | Laptop |
+| ---------- | ----- | ------ | ------ | 
+| phone      | ✔️   | ❌     | ❌    | 
+| -phone     | ❌   | ✔️     | ✔️    | 
+| tablet     | ❌   | ✔️     | ❌    |
+| -tablet    | ✔️   | ❌     | ✔️    |
+| laptop     | ❌   | ❌     | ✔️    |
+| -laptop    | ✔️   | ✔️     | ❌    |
 
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+| Attributes | Phone | Tablet | Laptop |
+| ---------- | ----- | ------ | ------ | 
+| -phone     | ❌   | ✔️     | ✔️    | 
+| -tablet    | ✔️   | ❌     | ✔️    |
+| -laptop    | ✔️   | ✔️     | ❌    |
 
 </td></tr> </table>
 
