@@ -41,39 +41,16 @@ How you want to implement the features of this library depends upon your used an
 | laptop     | Classes inside `laptop` attribute are only active in laptop sized devices   | 1024px - ♾️ |
 | -laptop    | Classes inside `-laptop` attribute are active in all devices except laptops | ♾️ - 1024px |
 
-<table>
-     <tr>
-          <td>
-               | Attributes | Phone | Tablet | Laptop |
-               | ---------- | ----- | ------ | ------ | 
-               | phone      | ✔️   | ❌     | ❌    | 
-               | -phone     | ❌   | ✔️     | ✔️    | 
-               | tablet     | ❌   | ✔️     | ❌    |
-               | -tablet    | ✔️   | ❌     | ✔️    |
-               | laptop     | ❌   | ❌     | ✔️    |
-               | -laptop    | ✔️   | ✔️     | ❌    |
-          </td><td>
-               | Attributes | Phone | Tablet | Laptop |
-               | ---------- | ----- | ------ | ------ | 
-               | -phone     | ❌   | ✔️     | ✔️    | 
-               | -tablet    | ✔️   | ❌     | ✔️    |
-               | -laptop    | ✔️   | ✔️     | ❌    |
-          </td>
-     </tr>
-</table>
 
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>With hyphen (-)</th><th>Without Hyphen (-)</th></tr>
 <tr><td>
 
 | Attributes | Phone | Tablet | Laptop |
 | ---------- | ----- | ------ | ------ | 
 | phone      | ✔️   | ❌     | ❌    | 
-| -phone     | ❌   | ✔️     | ✔️    | 
 | tablet     | ❌   | ✔️     | ❌    |
-| -tablet    | ✔️   | ❌     | ✔️    |
 | laptop     | ❌   | ❌     | ✔️    |
-| -laptop    | ✔️   | ✔️     | ❌    |
 
 </td><td>
 
