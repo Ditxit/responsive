@@ -42,25 +42,26 @@ How you want to implement the features of this library depends upon your used an
 | -laptop    | Classes inside `-laptop` attribute are active in all devices except laptops | ♾️ - 1024px |
 
 <table>
-<td>
-     | Attributes | Phone | Tablet | Laptop |
-     | ---------- | ----- | ------ | ------ | 
-     | phone      | ✔️   | ❌     | ❌    | 
-     | -phone     | ❌   | ✔️     | ✔️    | 
-     | tablet     | ❌   | ✔️     | ❌    |
-     | -tablet    | ✔️   | ❌     | ✔️    |
-     | laptop     | ❌   | ❌     | ✔️    |
-     | -laptop    | ✔️   | ✔️     | ❌    |
-</td>
-     
-<td>
-     | Attributes | Phone | Tablet | Laptop |
-     | ---------- | ----- | ------ | ------ | 
-     | -phone     | ❌   | ✔️     | ✔️    | 
-     | -tablet    | ✔️   | ❌     | ✔️    |
-     | -laptop    | ✔️   | ✔️     | ❌    |
-</td>
+     <tr>
+          <td>
+               | Attributes | Phone | Tablet | Laptop |
+               | ---------- | ----- | ------ | ------ | 
+               | phone      | ✔️   | ❌     | ❌    | 
+               | -phone     | ❌   | ✔️     | ✔️    | 
+               | tablet     | ❌   | ✔️     | ❌    |
+               | -tablet    | ✔️   | ❌     | ✔️    |
+               | laptop     | ❌   | ❌     | ✔️    |
+               | -laptop    | ✔️   | ✔️     | ❌    |
+          </td>
 
+          <td>
+               | Attributes | Phone | Tablet | Laptop |
+               | ---------- | ----- | ------ | ------ | 
+               | -phone     | ❌   | ✔️     | ✔️    | 
+               | -tablet    | ✔️   | ❌     | ✔️    |
+               | -laptop    | ✔️   | ✔️     | ❌    |
+          </td>
+     <tr>
 </table>
 
 
