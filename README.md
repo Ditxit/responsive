@@ -42,6 +42,9 @@ How you want to implement the features of this library depends upon your used an
 | -laptop    | The classes inside `-laptop` attribute are active in all devices except laptops | `♾️ to 1024px` |
 
 
+## Grammars To Follow
+> This library only uses one hyphen `-` as a syntax which it means `not` in common context.
+
 
 ## Supported CSS libraries
 > This mini library supports all the CSS libraries out there in the market. 
