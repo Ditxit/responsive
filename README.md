@@ -44,10 +44,10 @@ How you want to implement the features of this library depends upon your used an
 
 
 ## 🔰 Coding conventions
-This library uses hyphen `-` as a syntax which it means `not` in common context. This syntax can be use in front of both attributes as well as classes. 
+This library uses hyphen `-` as a syntax which it means `not` in common context. This syntax can be use infront of both attributes as well as classes. 
 
 #### Hyphen (-) in attributes
-Using the hyphen (-) in front of attributes denotes not in that device. For example;
+Using the hyphen (-) infront of attributes denotes not in that device. For example;
 > The attribute `phone` is used to add class to the respective element while in phone only whereas `-phone` i.e. `not phone` is used to add classes to respective element while not in phone only.
 
 <table>
