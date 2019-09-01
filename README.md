@@ -1,5 +1,5 @@
 # responsive.js
-`This repo contains JavaScript file for responsive making mini library`
+This repo contains JavaScript file for responsive making mini library.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
