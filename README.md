@@ -43,11 +43,15 @@ How you want to implement the features of this library depends upon your used an
 
 
 ## Coding conventions
-This library uses hyphen `-` as a syntax which it means `not` in common context. For example;
+This library uses hyphen `-` as a syntax which it means `not` in common context. This syntax can be use in front of both attributes as well as classes. 
+
+### Hyphen (-) in attributes
+Using the hyphen (-) in front of attributes denotes not in that device. For example;
 > The attribute `phone` is used to add class to the respective element while in phone only whereas `-phone` i.e. `not phone` is used to add classes to respective element while not in phone only.
 
-This convention is also applicable in case of classes inside the attribute. Adding `-` sign in front of any class inside the attribute provided by this library can eliminate that class when in the respective device size. For example;
-> The class written like `phone = " class_name "` adds the class `class_name` to the element while in phone but the class written like `phone = " -class_name "` removes the class `class_name` from the respective element while in phone.
+### Hyphen (-) in classes
+Using the hyphen (-) in front of classes denotes to remove the class while in the respective device size. For example;
+> The class written like `phone = " your_class_name "` adds the class `your_class_name` to the element while in phone but the class written like `phone = " -your_class_name "` removes the class `your_class_name` from the respective element while in phone.
 
 
 ## Supported CSS libraries
