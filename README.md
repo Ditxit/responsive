@@ -1,8 +1,7 @@
 <h1> responsive.js </h1>
 <p>This repo contains JavaScript file for responsive making mini library</p>
 
--------------------------------------------------------------------------------------------------------------------------------------
-</br>
+</br></br>
 
 ## 🔰 Installation
 
@@ -15,8 +14,7 @@ Or, use the link instead `but not recommended in finalized project`,
 <script type="text/javascript" src="https://drive.google.com/uc?id=1opMRz11qnO1uPitXKgWQwi_INTdU4G7C"></script>
 ```
 
--------------------------------------------------------------------------------------------------------------------------------------
-</br>
+</br></br>
 
 
 ## 🔰 Implementation
@@ -49,8 +47,7 @@ How you want to implement the features of this library depends upon your used an
 | -laptop    | Classes inside `-laptop` attribute are active in all devices except laptops | ♾️ - 1024px |
 
 
--------------------------------------------------------------------------------------------------------------------------------------
-</br>
+</br></br>
 
 
 ## 🔰 Coding conventions
@@ -85,8 +82,7 @@ Using the hyphen (-) in front of classes denotes to remove the class while in th
 > The class written like `phone = " your_class_name "` adds the class `your_class_name` to the element while in phone but the class written like `phone = " -your_class_name "` removes the class `your_class_name` from the respective element while in phone.
 
 
--------------------------------------------------------------------------------------------------------------------------------------
-</br>
+</br></br>
 
 
 ## 🔰 Supported CSS libraries
