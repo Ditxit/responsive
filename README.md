@@ -55,4 +55,4 @@ Using the hyphen (-) in front of classes denotes to remove the class while in th
 
 
 ## Supported CSS libraries
-> This mini library supports all the CSS libraries out there in the market. 
+> This mini library supports all the CSS libraries out there in the market. If you want to use the library made specifically for this javascript library keep tuned I'm working on it.
