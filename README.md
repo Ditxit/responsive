@@ -41,6 +41,9 @@ How you want to implement the features of this library depends upon your used an
 | laptop     | Classes inside `laptop` attribute are only active in laptop sized devices   | 1024px - ♾️ |
 | -laptop    | Classes inside `-laptop` attribute are active in all devices except laptops | ♾️ - 1024px |
 
+<table>
+<td>
+
 | Attributes | Phone | Tablet | Laptop |
 | ---------- | ----- | ------ | ------ | 
 | phone      | ✔️   | ❌     | ❌    | 
@@ -49,6 +52,10 @@ How you want to implement the features of this library depends upon your used an
 | -tablet    | ✔️   | ❌     | ✔️    |
 | laptop     | ❌   | ❌     | ✔️    |
 | -laptop    | ✔️   | ✔️     | ❌    |
+
+</td>
+
+</table>
 
 
 
