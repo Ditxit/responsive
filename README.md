@@ -1,5 +1,5 @@
 <h1> responsive.js </h1>
-This repo contains JavaScript file for responsive making mini library </br>
+<p>This repo contains JavaScript file for responsive making mini library</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 </br>
