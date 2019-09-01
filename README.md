@@ -44,7 +44,7 @@ How you want to implement the features of this library depends upon your used an
 
 ## Coding conventions
 This library uses hyphen `-` as a syntax which it means `not` in common context. For example;
-> `phone` is used to add class to the respective element while in phone only whereas `-phone` i.e. `not phone` is used to add classes to respective element while not in phone only.
+> The attribute `phone` is used to add class to the respective element while in phone only whereas `-phone` i.e. `not phone` is used to add classes to respective element while not in phone only.
 
 
 ## Supported CSS libraries
