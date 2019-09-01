@@ -41,6 +41,16 @@ How you want to implement the features of this library depends upon your used an
 | laptop     | Classes inside `laptop` attribute are only active in laptop sized devices   | 1024px - ♾️ |
 | -laptop    | Classes inside `-laptop` attribute are active in all devices except laptops | ♾️ - 1024px |
 
+| Attributes | Phone | Tablet | Laptop |
+| ---------- | ----- | ------ | ------ |
+| phone      | ✔️   | ❌     | ❌    | 
+| -phone     | ❌   | ✔️     | ✔️    |
+| tablet     | ❌   | ✔️     | ❌    |
+| -tablet    | ✔️   | ❌     | ✔️    |
+| laptop     | ❌   | ❌     | ✔️    |
+| -laptop    | ✔️   | ✔️     | ❌    |
+
+
 
 ## Coding conventions
 This library uses hyphen `-` as a syntax which it means `not` in common context. This syntax can be use in front of both attributes as well as classes. 
