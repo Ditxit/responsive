@@ -52,9 +52,7 @@ How you want to implement the features of this library depends upon your used an
                | -tablet    | ✔️   | ❌     | ✔️    |
                | laptop     | ❌   | ❌     | ✔️    |
                | -laptop    | ✔️   | ✔️     | ❌    |
-          </td>
-
-          <td>
+          </td><td>
                | Attributes | Phone | Tablet | Laptop |
                | ---------- | ----- | ------ | ------ | 
                | -phone     | ❌   | ✔️     | ✔️    | 
