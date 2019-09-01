@@ -61,7 +61,7 @@ How you want to implement the features of this library depends upon your used an
                | -tablet    | ✔️   | ❌     | ✔️    |
                | -laptop    | ✔️   | ✔️     | ❌    |
           </td>
-     <tr>
+     </tr>
 </table>
 
 
