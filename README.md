@@ -1,5 +1,7 @@
+<div style = "background-color: #eeeeee">
 <h1> responsive.js </h1>
 <p>This repo contains JavaScript file for responsive making mini library</p>
+</div>
 
 </br></br>
 
