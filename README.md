@@ -46,7 +46,7 @@ How you want to implement the features of this library depends upon your used an
 This library uses hyphen `-` as a syntax which it means `not` in common context. For example;
 > The attribute `phone` is used to add class to the respective element while in phone only whereas `-phone` i.e. `not phone` is used to add classes to respective element while not in phone only.
 
-This convention is also applicable in case of classes inside. Adding `-` sign infront of any classes inside the attributes provided by this library can eliminate that class when in the respective device size. For example;
+This convention is also applicable in case of classes inside the attribute. Adding `-` sign in front of any class inside the attribute provided by this library can eliminate that class when in the respective device size. For example;
 > The class written like `phone = " class_name "` adds the class `class_name` to the element while in phone but the class written like `phone = " -class_name "` removes the class `class_name` from the respective element while in phone.
 
 
