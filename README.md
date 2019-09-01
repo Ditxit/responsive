@@ -43,16 +43,22 @@ How you want to implement the features of this library depends upon your used an
 
 <table>
 <td>
-
-| Attributes | Phone | Tablet | Laptop |
-| ---------- | ----- | ------ | ------ | 
-| phone      | ✔️   | ❌     | ❌    | 
-| -phone     | ❌   | ✔️     | ✔️    | 
-| tablet     | ❌   | ✔️     | ❌    |
-| -tablet    | ✔️   | ❌     | ✔️    |
-| laptop     | ❌   | ❌     | ✔️    |
-| -laptop    | ✔️   | ✔️     | ❌    |
-
+     | Attributes | Phone | Tablet | Laptop |
+     | ---------- | ----- | ------ | ------ | 
+     | phone      | ✔️   | ❌     | ❌    | 
+     | -phone     | ❌   | ✔️     | ✔️    | 
+     | tablet     | ❌   | ✔️     | ❌    |
+     | -tablet    | ✔️   | ❌     | ✔️    |
+     | laptop     | ❌   | ❌     | ✔️    |
+     | -laptop    | ✔️   | ✔️     | ❌    |
+</td>
+     
+<td>
+     | Attributes | Phone | Tablet | Laptop |
+     | ---------- | ----- | ------ | ------ | 
+     | -phone     | ❌   | ✔️     | ✔️    | 
+     | -tablet    | ✔️   | ❌     | ✔️    |
+     | -laptop    | ✔️   | ✔️     | ❌    |
 </td>
 
 </table>
